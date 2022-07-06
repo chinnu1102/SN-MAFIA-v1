@@ -52,15 +52,15 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe.
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/chinnu1102/SN-MAFIA/fork)
+- FORK THE REPOSITORY [Here](https://github.com/chinnu1102/SN-MAFIA-v1/fork)
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/chinnu1102/SN-MAFIA/blob/master/config.js#L44)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/chinnu1102/SN-MAFIA/blob/master/config.js#L59)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/chinnu1102/SN-MAFIA/blob/master/config.js#L58)
-- CHANGE OWNER NAME [Here](https://github.com/chinnu1102/SN-MAFIA/blob/master/config.js#L45)
-- CHANGE BOT NAME [Here](https://github.com/chinnu1102/SN-MAFIA/blob/master/config.js#L51)
+- CHANGE OWNER NUMBER VCARD [Here](https://github.com/chinnu1102/SN-MAFIA-v1/blob/master/config.js#L44)
+- CHANGE OWNER NUMBER MENU [Here](https://github.com/chinnu1102/SN-MAFIA-v1/blob/master/config.js#L59)
+- CHANGE OWNER NUMBER TAG [Here](https://github.com/chinnu1102/SN-MAFIA-v1/blob/master/config.js#L58)
+- CHANGE OWNER NAME [Here](https://github.com/chinnu1102/SN-MAFIA-v1/blob/master/config.js#L45)
+- CHANGE BOT NAME [Here](https://github.com/chinnu1102/SN-MAFIA-v1/blob/master/config.js#L51)
 
 ## `Scan QR Code For Session`
 [![sn-mafia](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@chinnu1102/SN-MAFIA-MD-BOT-QR-Code-generate?v=1)
@@ -73,7 +73,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 heroku/nodejs
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chinnu1102/SN-MAFIA/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chinnu1102/SN-MAFIA-v1/)
 
 # Install Manually 👇
     
@@ -88,8 +88,8 @@ heroku/nodejs
 <!-- Clone Repo & Installation dependencies -->
 <b><details><summary>Clone Repo & Installation dependencies</summary></b>
 ```bash
-> git clone https://github.com/chinnu1102/SN-MAFIA.git
-> cd SN-MAFIA
+> git clone https://github.com/chinnu1102/SN-MAFIA-v1.git
+> cd SN-MAFIA-v1
 > npm start
 ```
 </details>
@@ -107,8 +107,8 @@ heroku/nodejs
 > pkg install ffmpeg -y 
 > pkg install wget
 > pkg install imagemagick -y
-> git clone https://github.com/chinnu1102/SN-MAFIA
-> cd SN-MAFIA
+> git clone https://github.com/chinnu1102/SN-MAFIA-v1
+> cd SN-MAFIA-v1
 > npm start
 ```
     
@@ -123,8 +123,8 @@ heroku/nodejs
 > apt apt install libwebp 
 > apt apt install imagrmagick
 > apt install bash
-> git clone https://github.com/chinnu1102/SN-MAFIA
-> cd SN-MAFIA
+> git clone https://github.com/chinnu1102/SN-MAFIA-v1
+> cd SN-MAFIA-v1
 > npm start
 ```
 </details>
